@@ -36,6 +36,13 @@
 			<scope>test</scope>
 		</dependency>
 		
+		<!-- Lombok -->
+		<dependency>
+			<groupId>org.projectlombok</groupId>
+			<artifactId>lombok</artifactId>
+			<scope>provided</scope>
+		</dependency>
+		
 		<!-- JPA, MySQL e H2 -->
 		<dependency>
 			<groupId> org.springframework.data </groupId>

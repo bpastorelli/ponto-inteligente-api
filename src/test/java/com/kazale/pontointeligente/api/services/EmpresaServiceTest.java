@@ -24,6 +24,7 @@ import com.kazale.pontointeligente.api.repositories.EmpresaRepository;
 @ActiveProfiles("test")
 public class EmpresaServiceTest {
 
+	
 	@MockBean
 	private EmpresaRepository empresaRepository;
 

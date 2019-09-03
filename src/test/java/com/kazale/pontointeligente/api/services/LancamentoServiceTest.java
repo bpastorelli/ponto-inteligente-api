@@ -28,6 +28,7 @@ import com.kazale.pontointeligente.api.repositories.LancamentoRepository;
 @ActiveProfiles("test")
 public class LancamentoServiceTest {
 
+	
 	@MockBean
 	private LancamentoRepository lancamentoRepository;
 

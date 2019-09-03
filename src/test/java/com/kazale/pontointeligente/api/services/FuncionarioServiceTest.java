@@ -24,6 +24,7 @@ import com.kazale.pontointeligente.api.repositories.FuncionarioRepository;
 @ActiveProfiles("test")
 public class FuncionarioServiceTest {
 
+	
 	@MockBean
 	private FuncionarioRepository funcionarioRepository;
 

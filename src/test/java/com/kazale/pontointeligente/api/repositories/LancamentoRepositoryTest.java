@@ -29,6 +29,7 @@ import com.kazale.pontointeligente.api.utils.PasswordUtils;
 @ActiveProfiles("test")
 public class LancamentoRepositoryTest {
 	
+	
 	@Autowired
 	private LancamentoRepository lancamentoRepository;
 	

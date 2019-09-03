@@ -40,6 +40,7 @@ public class LancamentoControllerTest {
 	@Autowired
 	private MockMvc mvc;
 	
+	
 	@MockBean
 	private LancamentoService lancamentoService;
 	

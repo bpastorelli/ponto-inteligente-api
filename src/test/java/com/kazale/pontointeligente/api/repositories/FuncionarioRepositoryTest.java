@@ -24,7 +24,6 @@ import com.kazale.pontointeligente.api.utils.PasswordUtils;
 @ActiveProfiles("test")
 public class FuncionarioRepositoryTest {
 
-	
 	@Autowired
 	private FuncionarioRepository funcionarioRepository;
 

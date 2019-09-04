@@ -7,6 +7,7 @@ import javax.validation.Valid;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
 import org.springframework.http.ResponseEntity;
 import org.springframework.validation.BindingResult;
 import org.springframework.validation.ObjectError;
@@ -25,6 +26,7 @@ import com.kazale.pontointeligente.api.services.EmpresaService;
 import com.kazale.pontointeligente.api.services.FuncionarioService;
 import com.kazale.pontointeligente.api.utils.PasswordUtils;
 
+@EnableAutoConfiguration 
 @RestController
 @RequestMapping("/api/cadastrar-pj")
 @CrossOrigin(origins = "*")

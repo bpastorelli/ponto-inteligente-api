@@ -5,7 +5,6 @@ import java.util.Optional;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.CrossOrigin;
 import org.springframework.web.bind.annotation.GetMapping;
@@ -18,7 +17,6 @@ import com.kazale.pontointeligente.api.entities.Empresa;
 import com.kazale.pontointeligente.api.response.Response;
 import com.kazale.pontointeligente.api.services.EmpresaService;
 
-@EnableAutoConfiguration 
 @RestController
 @RequestMapping("/api/empresas")
 @CrossOrigin(origins = "*")

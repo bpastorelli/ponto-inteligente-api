@@ -111,5 +111,4 @@ public class CadastroPFDto {
 				+ ", valorHora=" + valorHora + ", qtdHorasTrabalhoDia=" + qtdHorasTrabalhoDia + ", qtdHorasAlmoco="
 				+ qtdHorasAlmoco + ", cnpj=" + cnpj + "]";
 	}
-
 }

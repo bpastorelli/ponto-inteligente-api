@@ -66,5 +66,4 @@ public class FuncionarioServiceTest {
 
 		assertTrue(funcionario.isPresent());
 	}
-
 }

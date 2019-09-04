@@ -74,5 +74,4 @@ public class EmpresaControllerTest {
 		empresa.setCnpj(CNPJ);
 		return empresa;
 	}
-
 }

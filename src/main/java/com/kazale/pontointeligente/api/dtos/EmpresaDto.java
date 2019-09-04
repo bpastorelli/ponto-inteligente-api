@@ -37,5 +37,4 @@ public class EmpresaDto {
 	public String toString() {
 		return "EmpresaDto [id=" + id + ", razaoSocial=" + razaoSocial + ", cnpj=" + cnpj + "]";
 	}
-
 }

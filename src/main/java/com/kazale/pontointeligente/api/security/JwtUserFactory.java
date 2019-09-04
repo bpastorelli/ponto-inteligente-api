@@ -36,5 +36,4 @@ public class JwtUserFactory {
 		authorities.add(new SimpleGrantedAuthority(perfilEnum.toString()));
 		return authorities;
 	}
-
 }

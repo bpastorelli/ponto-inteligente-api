@@ -40,5 +40,4 @@ public interface LancamentoService {
 	 * @param id
 	 */
 	void remover(Long id);
-	
 }

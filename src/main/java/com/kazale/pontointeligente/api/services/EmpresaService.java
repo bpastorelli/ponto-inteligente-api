@@ -21,5 +21,4 @@ public interface EmpresaService {
 	 * @return Empresa
 	 */
 	Empresa persistir(Empresa empresa);
-	
 }

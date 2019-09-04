@@ -108,5 +108,4 @@ public class AuthenticationController {
 		response.setData(new TokenDto(refreshedToken));
 		return ResponseEntity.ok(response);
 	}
-
 }

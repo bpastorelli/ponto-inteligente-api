@@ -127,5 +127,4 @@ public class LancamentoControllerTest {
 		lancamento.getFuncionario().setId(ID_FUNCIONARIO);
 		return lancamento;
 	}	
-
 }

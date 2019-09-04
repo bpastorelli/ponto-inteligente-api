@@ -142,5 +142,4 @@ public class CadastroPFController {
 
 		return cadastroPFDto;
 	}
-
 }

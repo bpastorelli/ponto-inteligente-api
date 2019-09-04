@@ -86,5 +86,4 @@ public class FuncionarioDto {
 				+ valorHora + ", qtdHorasTrabalhoDia=" + qtdHorasTrabalhoDia + ", qtdHorasAlmoco=" + qtdHorasAlmoco
 				+ "]";
 	}
-
 }

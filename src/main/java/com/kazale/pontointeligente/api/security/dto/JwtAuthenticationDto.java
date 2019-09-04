@@ -34,5 +34,4 @@ public class JwtAuthenticationDto {
 	public String toString() {
 		return "JwtAuthenticationRequestDto [email=" + email + ", senha=" + senha + "]";
 	}
-
 }

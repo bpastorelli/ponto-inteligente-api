@@ -143,5 +143,4 @@ public class CadastroPJController {
 
 		return cadastroPJDto;
 	}
-
 }

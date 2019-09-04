@@ -96,5 +96,4 @@ public class FuncionarioRepositoryTest {
 		empresa.setCnpj("51463645000100");
 		return empresa;
 	}
-
 }

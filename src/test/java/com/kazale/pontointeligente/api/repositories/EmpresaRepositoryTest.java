@@ -42,5 +42,4 @@ public class EmpresaRepositoryTest {
 		
 		assertEquals(CNPJ, empresa.getCnpj());
 	}
-
 }

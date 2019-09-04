@@ -92,5 +92,4 @@ public class CadastroPJDto {
 		return "CadastroPJDto [id=" + id + ", nome=" + nome + ", email=" + email + ", senha=" + senha + ", cpf=" + cpf
 				+ ", razaoSocial=" + razaoSocial + ", cnpj=" + cnpj + "]";
 	}
-
 }

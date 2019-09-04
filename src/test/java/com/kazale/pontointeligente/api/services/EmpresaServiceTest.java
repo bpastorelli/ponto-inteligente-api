@@ -52,5 +52,4 @@ public class EmpresaServiceTest {
 
 		assertNotNull(empresa);
 	}
-
 }

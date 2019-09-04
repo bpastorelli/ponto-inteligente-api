@@ -1,18 +1,6 @@
-<<<<<<< HEAD
 language: java
 jdk:
   - oraclejdk8
 before_install:
   - chmod +x mvnw
 dist: trusty
-  
-=======
-sudo: enabled
-
-language: java
-jdk:
-  - oraclejdk8
-before_install:
-  - chmod +x mvnw
-dist: trusty
->>>>>>> branch 'master' of https://github.com/bpastorelli/ponto-inteligente-api.git
